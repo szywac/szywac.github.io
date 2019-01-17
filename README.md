@@ -9,6 +9,8 @@
 * IDE - Visual Studio Code
 
 ### Zadania do realizacji (założenia):
+* zrozumienie znaczenia tagów HTML i ich interpretacji przez przeglądarki
+* budowa logicznej struktury plików
 * budowa landigpage - prostej wizytówki z użyciem semantycznego kodu HTML5
 * zachowanie responsywności - zasada mobile first
 * dbałość o estetykę i pozytywne doświadczenie użytkownika ze stroną - UI i UX
