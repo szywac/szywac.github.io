@@ -36,6 +36,7 @@ a:hover {
 }
 main > section {
     padding: 20px 30px;
+    height: 100vh;
 }
 .sectionOne {
     background-color: #AE0004;
