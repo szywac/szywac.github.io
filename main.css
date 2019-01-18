@@ -3,7 +3,27 @@ body {
     font-family: helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 16px;
-  } 
+    width: 100%;
+    margin: auto auto;
+}
+header {
+    position: sticky;
+    top: 0;
+    background: #FFFFFF;
+    height: 40px;
+    padding: 5px 10px;
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+li {
+    display: inline;
+}
 a {
     color: #9702BC;
 }
