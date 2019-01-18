@@ -1,3 +1,9 @@
+body {
+    line-height: 1.6;
+    font-family: "omnes-pro", helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+  } 
 section {
     padding: 20px 30px;
 }
