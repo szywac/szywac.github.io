@@ -40,17 +40,17 @@ body {
     -webkit-font-smoothing: antialiased;
     font-size: 16px;
   } 
-  a {
+a {
     color: #9702BC;
-  }
-  a:active,
-  a:visited {
+}
+a:active,
+a:visited {
     color: #9702BC;
-  }
-  a:hover {
+}
+a:hover {
     color: #9702BC;
-  }
-section {
+}
+main > section {
     padding: 20px 30px;
 }
 .sectionOne {
