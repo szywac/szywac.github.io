@@ -2,37 +2,37 @@ section {
     padding: 20px 30px;
 }
 .sectionOne {
-    background-color: #73B600;
-    color: #497300;
+    background-color: #AE0004;
+    color: #670A0C;
 }
 .sectionOne h2 {
-    color: #A9EE34;
+    color: #FF4A4A;
 }
 .sectionTwo {
-    background-color: #009813;
-    color: #30843A;
+    background-color: #FF4F00;
+    color: #932E00;
 }
 .sectionTwo h2 {
-    color: #2CCA3F;
+    color: #FF824A;
 }
 .sectionThree {
-    background-color: #5CB100;
-    color: #91E833;
+    background-color: #FFD300;
+    color: #937A00;
 }
 .sectionThree h2 {
-    color: #3A7000;
+    color: #DBBE31;
 }
 .sectionFour {
-    background-color: #37AA00;
-    color: #47DC00;
+    background-color: #0CF900;
+    color: #2EB127;
 }
 .sectionFour h2 {
-    color: #1B5300;
+    color: #4EC348;
 }
 .sectionFive {
-    background-color: #4DC300;
-    color: #63FB00;
+    background-color: #0A4DF5;
+    color: #05226A;
 }
 .sectionFive h2 {
-    color: #215500;
+    color: #4761A1;
 }
