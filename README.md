@@ -4,6 +4,7 @@
 ### Zakres:
 * HTML/HTML5
 * CSS/CSS3
+* RWD
 * GIT
 * GitHub
 * IDE - Visual Studio Code
