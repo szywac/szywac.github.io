@@ -8,3 +8,31 @@ section {
 .sectionOne h2 {
     color: #A9EE34;
 }
+.sectionTwo {
+    background-color: #009813;
+    color: #30843A;
+}
+.sectionTwo h2 {
+    color: #2CCA3F;
+}
+.sectionThree {
+    background-color: #5CB100;
+    color: #91E833;
+}
+.sectionThree h2 {
+    color: #3A7000;
+}
+.sectionFour {
+    background-color: #37AA00;
+    color: #47DC00;
+}
+.sectionFour h2 {
+    color: #1B5300;
+}
+.sectionFive {
+    background-color: #4DC300;
+    color: #63FB00;
+}
+.sectionFive h2 {
+    color: #215500;
+}
