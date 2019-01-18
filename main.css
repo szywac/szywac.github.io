@@ -38,8 +38,18 @@ body {
     line-height: 1.6;
     font-family: "omnes-pro", helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
-    font-size: 14px;
+    font-size: 16px;
   } 
+  a {
+    color: #9702BC;
+  }
+  a:active,
+  a:visited {
+    color: #9702BC;
+  }
+  a:hover {
+    color: #9702BC;
+  }
 section {
     padding: 20px 30px;
 }
