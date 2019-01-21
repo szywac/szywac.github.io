@@ -49,6 +49,14 @@ main > section {
 .sectionOne h2 {
     color: #FF4A4A;
 }
+.img-html,
+.img-css,
+.img-python,
+.img-git,
+.img-github {
+    width: 10%;
+    height: auto;
+}
 .sectionTwo {
     background-color: #FF4F00;
     color: #932E00;
