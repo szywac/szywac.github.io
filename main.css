@@ -108,3 +108,22 @@ main > section {
 .sectionFive h2 {
     color: #4761A1;
 }
+.icon {
+    width: 80px;
+    height: 60px;
+}
+.icon-glass {
+    background-image: url('icons/magnifying-glass.svg');
+}
+.icon-book {
+    background-image: url('icons/book.svg');
+}
+.icon-hand {
+    background-image: url('icons/hand.svg')
+}
+.icon-upload {
+    background-image: url('icons/upload.svg')
+}
+.icon-star {
+    background-image: url('icons/star.svg')
+}
